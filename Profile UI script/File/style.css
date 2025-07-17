@@ -14,6 +14,9 @@
   background-image: url(back.jpg);
   background-position: center;
   background-size: cover;
+  background-color: white;
+  background-image: url('images/bgimage.png');
+   
 }
 .profile-card{
   display: flex;
@@ -25,6 +28,8 @@
   padding: 30px;
   border: 1px solid #ffffff40;
   box-shadow: 0 5px 20px rgba(0,0,0,0.4);
+  background-image: url('images/bgimage.png'); 
+
 }
 .image{
   position: relative;
